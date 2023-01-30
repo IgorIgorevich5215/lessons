@@ -1,0 +1,36 @@
+@import url(reset.css);
+main{
+    background-color: black;
+    color: white;
+}
+header{
+    background-color: blue;
+}
+.text,div{
+    color: red;
+}
+.lesson{
+    color: blueviolet;
+}
+h2{
+    color: yellow;
+}
+#also{
+    color: aqua;
+}
+.text2 > p{
+    color: brown;
+}
+.list{
+    color: chocolate;
+
+}
+#special{
+    color: crimson;
+}
+.text2 ~ p{
+    color: green;
+}
+.text2 + p{
+    color: aqua;
+}
