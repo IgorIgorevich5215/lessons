@@ -1,10 +1,4 @@
 @import url(reset.css);
-[class*="__conteiner"]{
-    max-width: 1470px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 0 auto;
-}
 .vence__conteiner {
     background-image: url(../img/unsplash_WgMDQsn36w4.jpg);
     background-repeat: no-repeat;
