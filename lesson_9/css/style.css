@@ -1,0 +1,26 @@
+@import url(reset.css);
+body{
+    background-color: lightslategray;
+}
+[class*="__content"]{
+    background-color: black;
+    max-width: 1270px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+h1{
+    margin-bottom: 10px;
+}
+.elements__content img{
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+
+}
+.elements-design__content h2{
+    margin-bottom: 20px;
+}
