@@ -1,0 +1,18 @@
+body {
+  color: rgb(108, 117, 125);
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 166.666667%; /* 20/12 */
+  background-color: rgb(32, 32, 32);
+}
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 160%; /* 40/25 */
+}
+.text {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 208.333333%; /* 25/12 */
+}
